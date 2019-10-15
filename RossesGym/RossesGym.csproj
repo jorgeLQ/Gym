@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\NUnit.3.12.0\build\NUnit.props" Condition="Exists('..\packages\NUnit.3.12.0\build\NUnit.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{90FFADF3-AF55-479F-911B-404C1F4A1BD0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RossesGym</RootNamespace>
+    <AssemblyName>RossesGym</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.ZKFPEngXControl">
+      <HintPath>C:\Users\Edwin\Desktop\Diagrama Casos de Uso\Lector Huellas\ZKTeco-ZK4500-master\dlls\AxInterop.ZKFPEngXControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ZKFPEngXControl">
+      <HintPath>C:\Users\Edwin\Desktop\Diagrama Casos de Uso\Lector Huellas\ZKTeco-ZK4500-master\dlls\Interop.ZKFPEngXControl.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.12.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion\AdministracionSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\AdministracionSistema.Designer.cs">
+      <DependentUpon>AdministracionSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\ActualizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\ActualizarCliente.Designer.cs">
+      <DependentUpon>ActualizarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\ConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\ConsultarCliente.Designer.cs">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\DarDeAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\DarDeAltaCliente.Designer.cs">
+      <DependentUpon>DarDeAltaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\DarDeBajaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\DarDeBajaCliente.Designer.cs">
+      <DependentUpon>DarDeBajaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\RegistrarCliente.Designer.cs">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\ConsultarAsistenciaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\ConsultarAsistenciaCliente.Designer.cs">
+      <DependentUpon>ConsultarAsistenciaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\HistorialAsistenciaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\HistorialAsistenciaCliente.Designer.cs">
+      <DependentUpon>HistorialAsistenciaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\RegistrarAsistenciaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Cliente\RegistrarAsistenciaCliente.Designer.cs">
+      <DependentUpon>RegistrarAsistenciaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\ConsultarAsistenciaInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\ConsultarAsistenciaInstructor.Designer.cs">
+      <DependentUpon>ConsultarAsistenciaInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\HistorialAsistenciaInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\HistorialAsistenciaInstructor.Designer.cs">
+      <DependentUpon>HistorialAsistenciaInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\RegistrarAsistenciaInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlAsistencia\Instructor\RegistrarAsistenciaInstructor.Designer.cs">
+      <DependentUpon>RegistrarAsistenciaInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlDietetico\CalcularMedidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlDietetico\CalcularMedidas.Designer.cs">
+      <DependentUpon>CalcularMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlDietetico\ElaborarDieta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlDietetico\ElaborarDieta.Designer.cs">
+      <DependentUpon>ElaborarDieta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlDietetico\RegistrarMedidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlDietetico\RegistrarMedidas.Designer.cs">
+      <DependentUpon>RegistrarMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HuellaDigital\HuellaDigital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuellaDigital\HuellaDigital.designer.cs">
+      <DependentUpon>HuellaDigital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructores\ActualizarInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructores\ActualizarInstructor.Designer.cs">
+      <DependentUpon>ActualizarInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructores\ConsultarInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructores\ConsultarInstructor.Designer.cs">
+      <DependentUpon>ConsultarInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructores\DarDeAltaInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructores\DarDeAltaInstructor.Designer.cs">
+      <DependentUpon>DarDeAltaInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructores\DarDeBajaInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructores\DarDeBajaInstructor.Designer.cs">
+      <DependentUpon>DarDeBajaInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructores\RegistrarInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructores\RegistrarInstructor.Designer.cs">
+      <DependentUpon>RegistrarInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loggin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loggin.Designer.cs">
+      <DependentUpon>Loggin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimientoEconomico\BuscarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimientoEconomico\BuscarFactura.Designer.cs">
+      <DependentUpon>BuscarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarFactura.Designer.cs">
+      <DependentUpon>GenerarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteDiario.Designer.cs">
+      <DependentUpon>GenerarReporteDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteEntreFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteEntreFechas.Designer.cs">
+      <DependentUpon>GenerarReporteEntreFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteMensual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimientoEconomico\GenerarReporteMensual.Designer.cs">
+      <DependentUpon>GenerarReporteMensual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Administracion\AdministracionSistema.resx">
+      <DependentUpon>AdministracionSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\ActualizarCliente.resx">
+      <DependentUpon>ActualizarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\ConsultarCliente.resx">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\DarDeAltaCliente.resx">
+      <DependentUpon>DarDeAltaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\DarDeBajaCliente.resx">
+      <DependentUpon>DarDeBajaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\RegistrarCliente.resx">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Cliente\ConsultarAsistenciaCliente.resx">
+      <DependentUpon>ConsultarAsistenciaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Cliente\HistorialAsistenciaCliente.resx">
+      <DependentUpon>HistorialAsistenciaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Cliente\RegistrarAsistenciaCliente.resx">
+      <DependentUpon>RegistrarAsistenciaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Instructor\ConsultarAsistenciaInstructor.resx">
+      <DependentUpon>ConsultarAsistenciaInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Instructor\HistorialAsistenciaInstructor.resx">
+      <DependentUpon>HistorialAsistenciaInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlAsistencia\Instructor\RegistrarAsistenciaInstructor.resx">
+      <DependentUpon>RegistrarAsistenciaInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlDietetico\CalcularMedidas.resx">
+      <DependentUpon>CalcularMedidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlDietetico\ElaborarDieta.resx">
+      <DependentUpon>ElaborarDieta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlDietetico\RegistrarMedidas.resx">
+      <DependentUpon>RegistrarMedidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuellaDigital\HuellaDigital.resx">
+      <DependentUpon>HuellaDigital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructores\ActualizarInstructor.resx">
+      <DependentUpon>ActualizarInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructores\ConsultarInstructor.resx">
+      <DependentUpon>ConsultarInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructores\DarDeAltaInstructor.resx">
+      <DependentUpon>DarDeAltaInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructores\DarDeBajaInstructor.resx">
+      <DependentUpon>DarDeBajaInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructores\RegistrarInstructor.resx">
+      <DependentUpon>RegistrarInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loggin.resx">
+      <DependentUpon>Loggin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimientoEconomico\BuscarFactura.resx">
+      <DependentUpon>BuscarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimientoEconomico\GenerarFactura.resx">
+      <DependentUpon>GenerarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimientoEconomico\GenerarReporteDiario.resx">
+      <DependentUpon>GenerarReporteDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimientoEconomico\GenerarReporteEntreFechas.resx">
+      <DependentUpon>GenerarReporteEntreFechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimientoEconomico\GenerarReporteMensual.resx">
+      <DependentUpon>GenerarReporteMensual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NUnit.3.12.0\build\NUnit.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit.3.12.0\build\NUnit.props'))" />
+  </Target>
+</Project>

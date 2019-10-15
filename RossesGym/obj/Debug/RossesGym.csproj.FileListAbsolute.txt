@@ -1,0 +1,169 @@
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\RossesGym.exe.config
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\RossesGym.exe
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\RossesGym.pdb
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.csprojAssemblyReference.cache
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Loggin.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Properties.Resources.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.GenerateResource.cache
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CoreCompileInputs.cache
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.exe
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.pdb
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\nunit.framework.dll
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\nunit.framework.pdb
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\nunit.framework.xml
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CopyComplete
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Inicio.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.RegistrarCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ConsultarCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ActualizarCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeBajaCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeAltaCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.RegistrarInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ConsultarInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ActualizarInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeAltaInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeBajaInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.RegistrarAsistenciaCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.ConsultarAsistenciaCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.HistorialAsistenciaCliente.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.RegistrarAsistenciaInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.ConsultarAsistenciaInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.HistorialAsistenciaInstructor.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.RegistrarMedidas.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.CalcularMedidas.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.ElaborarDieta.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteDiario.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteEntreFechas.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteMensual.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarFactura.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.BuscarFactura.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\bin\Debug\AxInterop.ZKFPEngXControl.dll
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.HuellaDigital.resources
+D:\ASUS\Programas C#\RossesGym\RossesGym\RossesGym\obj\Debug\RossesGym.Administracion.AdministracionSistema.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\RossesGym.exe.config
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\RossesGym.exe
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\RossesGym.pdb
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\nunit.framework.dll
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\nunit.framework.pdb
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\bin\Debug\nunit.framework.xml
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.csprojAssemblyReference.cache
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Administracion.AdministracionSistema.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ActualizarCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ConsultarCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeAltaCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeBajaCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.RegistrarCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.ConsultarAsistenciaCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.HistorialAsistenciaCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.RegistrarAsistenciaCliente.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.ConsultarAsistenciaInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.HistorialAsistenciaInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.RegistrarAsistenciaInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.CalcularMedidas.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.ElaborarDieta.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.RegistrarMedidas.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.HuellaDigital.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Inicio.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ActualizarInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ConsultarInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeAltaInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeBajaInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.RegistrarInstructor.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Loggin.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.BuscarFactura.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarFactura.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteDiario.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteEntreFechas.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteMensual.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.Properties.Resources.resources
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CopyComplete
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.exe
+C:\Users\Jorge\Documents\propietarios\RossesGym\RossesGym\obj\Debug\RossesGym.pdb
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\RossesGym.exe.config
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\RossesGym.exe
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\RossesGym.pdb
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\nunit.framework.dll
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\nunit.framework.pdb
+C:\Users\Master\Desktop\RossesGym\RossesGym\bin\Debug\nunit.framework.xml
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Administracion.AdministracionSistema.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ActualizarCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ConsultarCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeAltaCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeBajaCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.RegistrarCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.ConsultarAsistenciaCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.HistorialAsistenciaCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.RegistrarAsistenciaCliente.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.ConsultarAsistenciaInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.HistorialAsistenciaInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.RegistrarAsistenciaInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.CalcularMedidas.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.ElaborarDieta.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.RegistrarMedidas.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.HuellaDigital.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Inicio.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ActualizarInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ConsultarInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeAltaInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeBajaInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.RegistrarInstructor.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Loggin.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.BuscarFactura.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarFactura.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteDiario.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteEntreFechas.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteMensual.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.Properties.Resources.resources
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CopyComplete
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.exe
+C:\Users\Master\Desktop\RossesGym\RossesGym\obj\Debug\RossesGym.pdb
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\RossesGym.exe.config
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\RossesGym.exe
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\RossesGym.pdb
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\nunit.framework.dll
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\nunit.framework.pdb
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\bin\Debug\nunit.framework.xml
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.csprojAssemblyReference.cache
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Administracion.AdministracionSistema.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ActualizarCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.ConsultarCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeAltaCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Clientes.DarDeBajaCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.RegistrarCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.ConsultarAsistenciaCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.HistorialAsistenciaCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Cliente.RegistrarAsistenciaCliente.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.ConsultarAsistenciaInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.HistorialAsistenciaInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlAsistencia.Instructor.RegistrarAsistenciaInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.CalcularMedidas.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.ElaborarDieta.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.ControlDietetico.RegistrarMedidas.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.HuellaDigital.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Inicio.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ActualizarInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.ConsultarInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeAltaInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.DarDeBajaInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Instructor.RegistrarInstructor.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Loggin.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.BuscarFactura.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarFactura.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteDiario.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteEntreFechas.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.MovimientoEconomico.GenerarReporteMensual.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.Properties.Resources.resources
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.GenerateResource.cache
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.csproj.CopyComplete
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.exe
+C:\Users\jl_qu\Documents\RossesGym\RossesGym\obj\Debug\RossesGym.pdb
